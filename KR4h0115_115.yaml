@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4h0115/krp/v1/juan/115
+seq: 115
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0115_WYG_115-1a, image: WYG1384/WYG1384-0302a.png}
+body:
+  text: 唐宋八大家文鈔老泉文鈔引蘇文公崛起蜀徼其學本申韓而其行文雜出於荀卿孟軻及戰國策諸家不敢遽謂得古六藝者之遺然其鑱畫之議幽悄之思博大之識奇崛之氣非近代儒生所及要之韓歐而下與諸名家相為表裏及其二子繼響嘉祐之文西漢同風矣豫讀之録其書狀十四首論三十七首記四首說二首引二首序一首釐為十卷歸安鹿門茅坤題
+  hash: sha256:b9d52640bc55b31b63a12d9952a76865565d295ec62f2889f0e9489fadaa8a43
+metadata:
+  title: 唐宋八大家文鈔
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:37:55.873226'
+  juan_title: 老泉文鈔引
+  source:
+    repository: kanripo
+    path: KR4h0115/KR4h0115_115.txt
+hash: sha256:0c25077cfd35fafce027131304fd89ba06091a9bb682249776afa8a91444b544
