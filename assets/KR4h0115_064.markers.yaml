@@ -45,10 +45,13 @@ markers:
 
       ', id: KR4h0115_krp_064-bkkkrnewl9}
   - {type: line-break, offset: 117, content: '', id: KR4h0115_WYG_064-1b01}
+  - {type: substitution, offset: 117, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: 'kr:newline', offset: 138, content: '
 
       ', id: KR4h0115_krp_064-bkkkrnewl10}
   - {type: line-break, offset: 138, content: '', id: KR4h0115_WYG_064-1b02}
+  - {type: substitution, offset: 148, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
+  - {type: substitution, offset: 151, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'kr:newline', offset: 159, content: '
 
       ', id: KR4h0115_krp_064-bkkkrnewl11}
@@ -61,6 +64,7 @@ markers:
 
       ', id: KR4h0115_krp_064-bkkkrnewl13}
   - {type: line-break, offset: 201, content: '', id: KR4h0115_WYG_064-1b05}
+  - {type: substitution, offset: 201, original: 㩁, replacement: 榷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19755}}
   - {type: punctuation, offset: 207, content: (, id: KR4h0115_krp_064-bkkpn1}
   - {type: punctuation, offset: 208, content: /, id: KR4h0115_krp_064-bkkpn2}
   - {type: punctuation, offset: 208, content: ), id: KR4h0115_krp_064-bkkpn3}
@@ -68,4 +72,4 @@ markers:
 
       ', id: KR4h0115_krp_064-bkkkrnewl14}
   back: []
-hash: sha256:f95403acb04dc18d867f58475d2657499f854bb448cd6f4a6f4af1f6662999b4
+hash: sha256:96f250b40f1b7cf9b23dc6340a85b5df55f02f1109327b2dbde80c03a93c7c23
